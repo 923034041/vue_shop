@@ -11,6 +11,10 @@
     "axios": "^0.21.0",
     "core-js": "^3.6.5",
     "element-ui": "^2.4.5",
+    "node-sass": "^4.14.1",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.4",
+    "scss-loader": "0.0.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
